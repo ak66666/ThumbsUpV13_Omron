@@ -19,13 +19,26 @@ OD more than 12mm is a bit too loose.
 This is a functional clone of my v12 rev.6 board with columnar stagger removed - all the finger keys are lined up along the asterisk key middle line.
 https://github.com/ak66666/ThumbsUpV12_Omron
 Schematics, thumbcluster and the MCU/touchpad corner are the same.
-The only difference is the finger keys.
+The only difference is the finger keys alignment.
+
+Hinge boards are connected to the bottom layer with 10mm M3 stand-offs and M3 5-6mm bolts, for example from here:
+https://www.amazon.ca/dp/B075GXLRF6
+https://www.amazon.ca/dp/B00W8YSCIS
+
+Omron switches sit in cradles.
+Cradle model is: 3D Printed\Switch Raiser Omron Tilted.stl
+Important: place it on the printer bed and sink it so the distance between the lower corner and the plate is 0.3-0.5 mm.
+If the installed key is a bit too low - put a piece of electric or duct tape on the bottom side of the key.
 
 3D printed tenting "heel" should fit since the innermost side is unchanged.
 
-#Rev.0
 
-This is an 
+#Rev.0
+![v13](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211051118_HDR.jpg)
+![v13](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211058846_HDR.jpg)
+![v13](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211128919.jpg)
+![v13](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211135449_HDR.jpg)
+
 
 Other pictures and videos in Photos folder.
 
