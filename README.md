@@ -43,8 +43,8 @@ Mirror the model in slicer for the other side.
 ![v13.0](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211058846_HDR.jpg)
 ![v13.0](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211128919.jpg)
 ![v13.0](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211135449_HDR.jpg)
-![v13.0](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/Case Straight Right.png)
-![v13.0](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/Case Curvy Right.png)
+![v13.0](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/Case%20Straight%20Right.png)
+![v13.0](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/Case%20Curvy%20Right.png)
 
 
 Other pictures and videos in Photos folder.
