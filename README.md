@@ -30,14 +30,21 @@ Cradle model is: 3D Printed\Switch Raiser Omron Tilted.stl
 Important: place it on the printer bed and sink it so the distance between the lower corner and the plate is 0.3-0.5 mm.
 If the installed key is a bit too low - put a piece of electric or duct tape on the bottom side of the key.
 
-3D printed tenting "heel" should fit since the innermost side is unchanged.
+3D printed tenting "heel": 3D Printed\v13 Rev.0\Heel Left.stl
+Should fit since the innermost side is unchanged.
 
+Two versions of the drop-in case are provided, both with tent and negative tilt:
+- 3D Printed\v13 Rev.0\Case Curvy Right.stl
+- 3D Printed\v13 Rev.0\Case Straight Right.stl
+Mirror the model in slicer for the other side.
 
 #Rev.0
-![v13](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211051118_HDR.jpg)
-![v13](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211058846_HDR.jpg)
-![v13](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211128919.jpg)
-![v13](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211135449_HDR.jpg)
+![v13.0](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211051118_HDR.jpg)
+![v13.0](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211058846_HDR.jpg)
+![v13.0](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211128919.jpg)
+![v13.0](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/IMG_20260819_211135449_HDR.jpg)
+![v13.0](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/Case Straight Right.png)
+![v13.0](https://github.com/ak66666/ThumbsUpV13_Omron/blob/main/Photos/rev.0/Case Curvy Right.png)
 
 
 Other pictures and videos in Photos folder.
